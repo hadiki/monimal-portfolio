@@ -1,6 +1,6 @@
 import React from "react";  
 
-function Footer() {
+function Appfooter() {
     return (
         <div className="py-5 text-center">
             <div className="container max-w-screen-lg mx-auto">
@@ -52,4 +52,4 @@ function Footer() {
     )
 }
 
-export default Footer;
+export default Appfooter;

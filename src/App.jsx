@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react'
 import Intro from './components/Intro'
 import Contact from './components/Contact'
-import Footer from './components/footer'
+import Appfooter from './components/Appfooter'
 import Portfolio from './components/Portfolio'
 import Timeline from './components/Timeline'
  
@@ -78,7 +78,7 @@ function App() {
           <Portfolio />
           <Timeline />
           <Contact />
-          <Footer />
+          <Appfooter />
         </div>
       </div>
     </>
